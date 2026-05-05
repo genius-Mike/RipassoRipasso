@@ -1,0 +1,15 @@
+.pagamento button{
+    border-radius: 10%;
+}
+
+.pagamento button :hover{
+    background-color: aqua;
+    transition: color 1s;
+}
+
+.pagamento{
+    width: 75%;
+    margin: 0 auto;
+    background-color: black;
+    border: 3px yellow solid;
+}
